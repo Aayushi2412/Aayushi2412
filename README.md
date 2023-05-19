@@ -22,6 +22,7 @@ Yoy can reach me at :-
 
 
 Languages and tools :
+<img src="https://github-readme-stats.vercel.app/api?username=aayushi2412&show_icons=true&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushi2412"/>
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 
