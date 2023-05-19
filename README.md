@@ -1,5 +1,8 @@
 Hello folks ! Hola Amigos 😊. 
+  
+  
   I am Aayushi, currently pursuing my BTech in Compuetr Science and Engineering from Vellore Institute of Technology.
+ 
   My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
   I take great care in the experience, architecture, and code quality of the things I build.
   I would rather love to have a ☕ of Java than anything else.
@@ -12,8 +15,10 @@ Yoy can reach me at :-
 💻 https://www.linkedin.com/in/aayushi-167393221/
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=aayushi2412&show_icons=true"/>
 
 Languages and tools :
-Java,Pyhton,R,C++
+Java, Pyhton, R, C++, HTML, CSS, JavaScript, PHP
+
 R-studio, MatLab, Tableau
 
