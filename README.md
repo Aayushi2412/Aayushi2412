@@ -25,8 +25,7 @@ Languages and tools :
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/><img height=50
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/><img height=50
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/><img height=50
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/><img height=50                                                                         
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>                                                                              
               
 Java, Pyhton, R, C++, HTML, CSS, JavaScript, PHP
