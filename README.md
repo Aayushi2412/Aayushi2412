@@ -15,9 +15,11 @@ Yoy can reach me at :-
 💻 https://www.linkedin.com/in/aayushi-167393221/
 
 
+
 <img src="https://github-readme-stats.vercel.app/api?username=aayushi2412&show_icons=true"/>
 
 Languages and tools :
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
 Java, Pyhton, R, C++, HTML, CSS, JavaScript, PHP
 
 R-studio, MatLab, Tableau
