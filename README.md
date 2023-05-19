@@ -24,8 +24,10 @@ Languages and tools :
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushi2412"/>
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 
-src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-nwvsu&psig=AOvVaw3wYqSaHODCwt3hKwKkzPGH&ust=1684582226420000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDn-Pqjgf8CFQAAAAAdAAAAABAE"/><img height=50
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/><img height=50
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/><img height=50
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/><img height=50
+              
 Java, Pyhton, R, C++, HTML, CSS, JavaScript, PHP
 R-studio, MatLab, Tableau
 
