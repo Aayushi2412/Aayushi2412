@@ -19,8 +19,11 @@ Yoy can reach me at :-
 <img src="https://github-readme-stats.vercel.app/api?username=aayushi2412&show_icons=true"/>
 
 Languages and tools :
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
-Java, Pyhton, R, C++, HTML, CSS, JavaScript, PHP
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushi2412"/>
 
+
+Java, Pyhton, R, C++, HTML, CSS, JavaScript, PHP
 R-studio, MatLab, Tableau
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushi2412"/>
 
