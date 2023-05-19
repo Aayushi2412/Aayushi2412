@@ -9,7 +9,8 @@ Hello folks ! Hola Amigos 😊.
   
 Currently I am trying my hands in Competitive Programming and some cool project building.
 
-https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
+![image](https://github.com/Aayushi2412/Aayushi2412/assets/106343054/d4c23329-dfbf-4849-83d5-f958e8e7fd43)
+
 
 
 Yoy can reach me at :- 
