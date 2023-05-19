@@ -27,6 +27,7 @@ Languages and tools :
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/><img height=50
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/><img height=50
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/><img height=50
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>                                                                              
               
 Java, Pyhton, R, C++, HTML, CSS, JavaScript, PHP
 R-studio, MatLab, Tableau
