@@ -17,8 +17,7 @@ Currently I am trying my hands in Competitive Programming and some cool project 
 
 <img src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" alt="" style="max-width: 100%; align=centre; display: inline-block;" data-target="animated-image.originalImage">
 
-
-<img src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a  alt="" style="max-width: 100%; align=centre; display: inline-block;" data-target="animated-image.originalImage">
+<img src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" alt="" style="max-width: 100%; align=centre; display: inline-block;" data-target="animated-image.originalImage">
 
 
 ![image](https://github.com/Aayushi2412/Aayushi2412/assets/106343054/d4c23329-dfbf-4849-83d5-f958e8e7fd43)
