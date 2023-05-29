@@ -1,5 +1,6 @@
 Hello folks ! Hola Amigos 😊. 
-![image](https://github.com/Aayushi2412/Aayushi2412/assets/106343054/ecba5af9-77fc-4cf9-a354-2771b6d2bb73)
+![image](https://github.com/Aayushi2412/Aayushi2412/assets/106343054/2583fc76-7283-45a7-91c7-ec6d89a43a1a)
+
 
     
 
