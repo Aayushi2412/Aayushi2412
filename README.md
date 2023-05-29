@@ -16,8 +16,8 @@ Hello folks ! Hola Amigos 😊.
 Currently I am trying my hands in Competitive Programming and some cool project building.
 
 <img src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" alt="" style="max-width: 100%; align=centre; display: inline-block;" data-target="animated-image.originalImage">
-
-<img src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" alt="" style="max-width: 100%; align=centre; display: inline-block;" data-target="animated-image.originalImage">
+<br>
+<hr>
 
 
 ![image](https://github.com/Aayushi2412/Aayushi2412/assets/106343054/d4c23329-dfbf-4849-83d5-f958e8e7fd43)
@@ -26,7 +26,7 @@ Currently I am trying my hands in Competitive Programming and some cool project 
 
 Yoy can reach me at :- 
 💻 https://www.linkedin.com/in/aayushi-167393221/
-
+<hr>
 
 <img src="https://github-readme-stats.vercel.app/api?username=aayushi2412&show_icons=true&theme=dark"/>
 
