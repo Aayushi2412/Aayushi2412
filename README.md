@@ -14,6 +14,8 @@ Hello folks ! Hola Amigos 😊.
   My motto in life is to nourish and strengthen my passion for programming, creativity and analytical skills. 
   
 Currently I am trying my hands in Competitive Programming and some cool project building.
+https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif
+
 
 
 
