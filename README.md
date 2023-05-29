@@ -15,7 +15,7 @@ Hello folks ! Hola Amigos 😊.
   
 Currently I am trying my hands in Competitive Programming and some cool project building.
 
-<img src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" alt="" style="max-width: 100%; align=centre; display: inline-block;" data-target="animated-image.originalImage">
 
 
 
