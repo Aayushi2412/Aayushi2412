@@ -29,9 +29,7 @@ Yoy can reach me at :-
 <hr>
 
 <img src="https://github-readme-stats.vercel.app/api?username=aayushi2412&show_icons=true&theme=dark"/>
-
-
-
+<hr>
 Spreading smiles and laughter a bit :) 😉
 
 
