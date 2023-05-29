@@ -51,5 +51,5 @@ Languages and tools :
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>                                                                              
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushi2412"/ align=centre>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushi2412"/>
 
