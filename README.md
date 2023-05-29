@@ -28,7 +28,7 @@ Yoy can reach me at :-
 💻 https://www.linkedin.com/in/aayushi-167393221/
 <hr>
 
-<cent
+
 <img src="https://github-readme-stats.vercel.app/api?username=aayushi2412&show_icons=true&theme=dark"/ class="center">
 
 
