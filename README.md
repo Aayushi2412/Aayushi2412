@@ -47,7 +47,7 @@ Languages and tools :
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img height=50
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /><img height=50
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /><img height=50                                                              
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /><img height=50                                                                       <br>  
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /><img height=50>                                                                      <br>  
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>                                                                              
 <br>
 
