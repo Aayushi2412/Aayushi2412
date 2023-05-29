@@ -8,8 +8,7 @@ Hello folks ! Hola Amigos 😊.
   I would rather love to have a ☕ of Java than anything else.
   
 Currently I am trying my hands in Competitive Programming and some cool project building.
-
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fp6ostniy79gc3qwbr004wdr48ewvp0qlpzrhw9f&ep=v1_gifs_search&rid=giphy.gif&ct=g
 
 ![image](https://github.com/Aayushi2412/Aayushi2412/assets/106343054/d4c23329-dfbf-4849-83d5-f958e8e7fd43)
 
