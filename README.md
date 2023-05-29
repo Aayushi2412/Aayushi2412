@@ -1,4 +1,7 @@
 Hello folks ! Hola Amigos 😊. 
+
+                        ![image](https://github.com/Aayushi2412/Aayushi2412/assets/106343054/687155f4-4beb-4da0-a752-9b9e1f3211fa)
+
   
   
   I am Aayushi, currently pursuing my BTech in Computer Science and Engineering from Vellore Institute of Technology.
