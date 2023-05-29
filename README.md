@@ -9,6 +9,8 @@ Hello folks ! Hola Amigos 😊.
   
 Currently I am trying my hands in Competitive Programming and some cool project building.
 
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+
 ![image](https://github.com/Aayushi2412/Aayushi2412/assets/106343054/d4c23329-dfbf-4849-83d5-f958e8e7fd43)
 
 
