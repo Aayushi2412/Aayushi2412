@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
   
                                                  Hello folks ! Hola Amigos😊.
                                                          AAYUSHI Here 👋
@@ -57,5 +56,4 @@ Languages and tools :
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushi2412"/>
 
 
-</html>
 
