@@ -1,5 +1,5 @@
-                                        <font-size: 50px>  Hello folks ! Hola Amigos 😊. 
-                                                    AAYUSHI Here 👋 </font>
+                                                 **Hello folks** ! **Hola Amigos** 😊. 
+                                                         **AAYUSHI Here 👋**
 ![image](https://github.com/Aayushi2412/Aayushi2412/assets/106343054/2583fc76-7283-45a7-91c7-ec6d89a43a1a)
 
 
