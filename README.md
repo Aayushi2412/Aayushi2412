@@ -46,8 +46,11 @@ Languages and tools :
 <!-- Programming Languages -->
 <h3 align="left">Languages:</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" style="margin-right: 12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" style="margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" style="margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mySql" width="40" style="margin-right: 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" width="40" style="margin-right: 12px;" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" style="margin-right: 12px;" />
   <!-- Add more language icons as needed -->
 </p>
@@ -57,6 +60,8 @@ Languages and tools :
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" style="margin-right: 12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" style="margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" style="margin-right: 12px;"  />
+          
   <!-- Add more framework icons as needed -->
 </p>
 
@@ -66,7 +71,6 @@ Languages and tools :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VsCode" width="40" style="margin-right: 12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" style="margin-right: 12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" style="margin-right: 12px;" />
-  <!-- Swagger & SoapUI (custom SVG or badge if not in devicon) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" width="40" style="margin-right: 12px;" />
   <img src="https://github.com/Aayushi2412/Aayushi2412/raw/main/assets/soapui.svg" alt="SoapUI" width="40" style="margin-right: 12px;" />
 </p>
