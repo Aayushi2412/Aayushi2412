@@ -37,7 +37,7 @@ Yoy can reach me at :-
 Spreading smiles and laughter a bit :) 😉
 
 
-<img src="https://camo.githubusercontent.com/4369c85292c1f300d75bb2affa6d0a10810754b642bbe4b8b92b3b93924d3808/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f6170693f7468656d653d64726163756c61" alt="Jokes Card" data-canonical-src="https://readme-jokes.vercel.app/api?theme=dracula" style="max-width: 100%;">
+<img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
 <hr>
 
 
