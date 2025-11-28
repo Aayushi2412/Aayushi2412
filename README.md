@@ -67,7 +67,7 @@ Languages and tools :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" style="margin-right: 12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" style="margin-right: 12px;" />
   <!-- Swagger & SoapUI (custom SVG or badge if not in devicon) -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/swagger.svg" alt="Swagger" width="40" style="margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" width="40" style="margin-right: 12px;" />
   <img src="https://github.com/Aayushi2412/Aayushi2412/raw/main/assets/soapui.svg" alt="SoapUI" width="40" style="margin-right: 12px;" />
 </p>
 
