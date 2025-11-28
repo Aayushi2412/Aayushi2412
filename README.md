@@ -43,9 +43,6 @@ Spreading smiles and laughter a bit :) 😉
 
 Languages and tools :
 
-
-<img src="https://readme-jokes.vercel.app/api/top-langs?username=aayushi2412"/>
-
 <img height=50 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50  
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 
